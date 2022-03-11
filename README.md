@@ -1,2 +1,2 @@
 # mrcwin
-Header that uses Windows API to virtualize keyboard and change colors on Command Prompt.
+Header that uses Windows API to virtualize keyboard and Mouse, as well change colors on Command Prompt
